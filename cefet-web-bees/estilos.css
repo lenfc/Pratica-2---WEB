@@ -58,3 +58,6 @@ body {
   p:last-child {
       text-align: right;
   }
+  #curiosidade-rainha {
+    clear: left;
+  }
